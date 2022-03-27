@@ -1,5 +1,5 @@
 server:
-  port1: 8001
+  port: 99999
 
 address:
   name: 秦皇岛市北戴河区-dev
